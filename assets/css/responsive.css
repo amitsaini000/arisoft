@@ -1,0 +1,441 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	.section-padding {
+		padding: 80px 0;
+	}
+	.section-title h2 {
+		font-size: 37px;
+	}
+	.features-single-item h3 {
+		font-size: 22px;
+	}
+	.features-single-item p {
+		font-size: 14px;
+	}
+	.skill-text-area {
+		padding: 30px 10px;
+	}
+	.skill-text-area .section-title h2 {
+		font-size: 25px;
+	}
+	.skill-text-area .section-title p br, .chooes-text-area .section-title p br {
+		display: none;
+	}
+	.skill-text-area .section-title, .chooes-text-area .section-title {
+		margin: auto auto 30px;
+	}
+	.services-area {
+		padding-bottom: 50px;
+	}
+	.services-text h3 {
+		font-size: 21px;
+	}
+	.services-text p {
+		font-size: 14px;
+	}
+	.protfolio-area {
+		padding-bottom: 50px;
+	}
+	.shorting-menu-area {
+		margin-bottom: 40px;
+	}
+	.single-work .title {
+		font-size: 16px;
+	}
+	.single-work .work-icon li a {
+		width: 25px;
+		height: 25px;
+		line-height: 25px;
+		font-size: 14px;
+	}
+	.chooes-text-area {
+		padding: 30px 10px;
+	}
+	.single-team .social li a {
+		width: 35px;
+		height: 35px;
+		line-height: 35px;
+		margin-right: 5px;
+		font-size: 18px;
+	}
+	.counter-text {
+		padding-left: 80px;
+	}
+	.counter-text h3 {
+		font-size: 28px;
+	}
+	.counter-text p {
+		font-size: 14px;
+	}
+	.blog-text a {
+		font-size: 18px;
+	}
+	.single-price .pricing-list li {
+		font-size: 15px;
+	}
+	.demo-area h2 {
+		margin-bottom: 80px;
+	}
+	.demo-area {
+		padding-bottom: 50px;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.bg-light {
+		padding: 15px 20px;
+	}
+	.navbar-toggler {
+		background-color: #fff;
+		border: 1px solid #fff;
+		border-radius: 0;
+	}
+	.navbar-collapse {
+		background-color: #ff1744;
+	}
+	.text-right {
+		text-align: left!important;
+	}
+	.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .btn:active, .navbar-light .navbar-nav .btn:focus, .navbar-light .navbar-nav .btn .active {
+		color: #000;
+	}
+	.dropdown-menu {
+		padding: 20px 15px 0;
+		color: #fff !important;
+		background-color: #ff1744;
+		border: 1px solid transparent;
+	}
+	.menu-shrink {
+		padding: 10px 20px;
+		box-shadow: 0 0 10px 0 rgba(255, 255, 255, .3);
+	}
+	.parallax-window {
+		min-height: 650px;
+	}
+	.benner-text {
+		top: 50%;
+	}
+	.benner-text h1 {
+		font-size: 40px;
+	}
+	.section-padding {
+		padding: 60px 0;
+	}
+	.section-title {
+		margin-bottom: 40px;
+	}
+	.features-single-item {
+		margin-bottom: 30px;
+		max-width: 500px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.features-area {
+		padding-bottom: 30px;
+	}
+	.skill-img, .chooes-us-img {
+		height: 450px;
+	}
+	.skill-area {
+		position: relative;
+		background-color: #fff8f8;
+		height: 100%;
+	}
+	.services-text h3 {
+		font-size: 21px;
+	}
+	.talk-area {
+		height: 400px;
+	}
+	.talk-head h2 {
+		font-size: 40px;
+	}
+	.subscribe-section {
+		height: 300px;
+	}
+	.protfolio-area {
+		padding-bottom: 30px;
+	}
+	.shorting-menu-area {
+		margin-bottom: 30px;
+	}
+	.single-work{
+		margin-bottom:30px;
+	}
+	.single-team, .single-price, .single-counter-item  {
+		margin-bottom: 30px;
+	}
+	.event-single-item, .single-blog  {
+		margin-bottom: 30px;
+		max-width: 500px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.team-area, .pricing-area, .event-area, .counter-area, .blog-area {
+		padding-bottom: 30px;
+	}
+	.blog-text a {
+		font-size: 19px;
+	}
+	.contact-form {
+		margin-top: 40px;
+	}
+	.benner-first-area, .benner-two-area, .benner-three-area, .benner-four-area, .benner-five-area, .benner-six-area, .benner-seven-area, .benner-video-area {
+		height: 650px;
+	}
+	.single-slide-item {
+		height: 650px;
+	}
+	.benner-seven-area {
+		background-position: center right;
+	}
+	.benner-seven-area .benner-text {
+		left: 2%;
+	}
+	.btn {
+		margin-left: 20px;
+	}
+	.preview-header {
+		top: 30%;
+	}
+	.demo-area h2 {
+		margin-bottom: 60px;
+	}
+	.demo-area {
+		padding-bottom: 30px;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.bg-light {
+		padding: 15px 20px;
+	}
+	.navbar-toggler {
+		background-color: #fff;
+		border: 1px solid #fff;
+		border-radius: 0;
+	}
+	.navbar-collapse {
+		background-color: #ff1744;
+	}
+	.text-right {
+		text-align: left!important;
+	}
+	.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .btn:hover {
+		color: #000;
+	}
+	.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link  {
+		color: #000;
+	}
+	.dropdown-menu {
+		padding: 20px 15px 0;
+		color: #fff !important;
+		background-color: #ff1744;
+		border: 1px solid transparent;
+	}
+	.menu-shrink {
+		padding: 10px 20px;
+		box-shadow: 0 0 10px 0 rgba(255, 255, 255, .3);
+	}
+	.benner-text h1 {
+		font-size: 36px;
+	}
+	.benner-text p br, .section-title p br {
+		display: none;
+	}
+	.benner-text {
+		top: 50%;
+	}
+	.section-padding {
+		padding: 50px 0;
+	}
+	.section-title {
+		margin-bottom: 40px;
+	}
+	.section-title h2 {
+		font-size: 30px;
+		margin-bottom: 10px;
+	}
+	.section-title p {
+		font-size: 14px;
+	}
+	.features-area {
+		padding-bottom: 20px;
+	}
+	.features-single-item {
+		margin-bottom: 30px;
+	}
+	.skill-img, .chooes-us-img {
+		display: none;
+	}
+	.skills .skill .skill-title {
+		font-size: 13px;
+	}
+	.skill-pd, .chooes-pd {
+		padding: 10px;
+	} 
+	.skill-text-area, .chooes-text-area {
+		padding: 20px 10px;
+	}
+	.skill-text-area .section-title h2 {
+		font-size: 25px;
+	}
+	.services-area {
+		padding-bottom: 20px;
+	}
+	.services-text h3 {
+		font-size: 20px;
+	}
+	.services-text p {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.talk-area {
+		height: 300px;
+	}
+	.talk-head h2 {
+		font-size: 32px;
+		margin-bottom: 15px;
+	}
+	.talk-head p {
+		font-size: 14px;
+		margin-bottom: 10px;
+	}
+	.subscribe-section {
+		height: 300px;
+	}
+	.subscribe-head h2 {
+		font-size: 35px;
+		margin: 0 0 15px;
+	}
+	.subscribe-head p {
+		font-size: 14px;
+		margin: 0 0 20px;
+	}
+	.form-section input[type="email"] {
+		width: 90%;
+	}
+	.form-section button {
+		margin: 10px 0 0;
+		width: 90%;
+	}
+	.protfolio-area {
+		padding-bottom: 20px;
+	}
+	.shorting-menu-area button {
+		font-size: 15px;
+		padding: 0 10px;
+	}
+	.shorting-menu-area {
+		margin-bottom: 20px;
+	}
+	.chooes-text-area .section-title h2 {
+		font-size: 28px;
+	}
+	.card-header .mr-3, .card-header .mx-3 {
+		margin-right: 6px!important;
+	}
+	.card-body {
+		font-size: 14px;
+		line-height: 26px;
+	}
+	.card-header .navbar-light .navbar-nav .nav-link, .card-header .btn {
+		font-size: 14px;
+		margin-left: 0;
+	}
+	.single-team{
+		margin-bottom:30px;
+	}
+	.team-area {
+		padding-bottom: 20px;
+	}
+	.single-team .social li a {
+		margin-right: 5px;
+	}
+	.single-price {
+		margin-bottom: 30px;
+	}
+	.pricing-area, .counter-area {
+		padding-bottom: 20px;
+	}
+	.single-price .title {
+		text-align: right;
+		right: 18px;
+		font-size: 18px;
+		top: 10px;
+	}
+	.single-price .price-header:before{
+		height:200%;
+		top:-140%%;
+		left:-20%;
+	}
+	.single-counter-item {
+		text-align: center;
+		margin-bottom: 30px;
+	}
+	.single-counter-item i {
+		position: relative;
+		margin-bottom: 15px;
+		display: inline-block;
+	}
+	.counter-text {
+		padding-left: 0;
+	}
+	.event-single-item {
+		margin: 0 0 30px;
+	}
+	.event-area {
+		padding-bottom: 20px;
+	}
+	.single-blog {
+		margin-bottom: 30px;
+	}
+	.blog-area {
+		padding-bottom: 20px;
+	}
+	.blog-text a {
+		font-size: 18px;
+	}
+	.client-slider .owl-prev, .client-slider .owl-next {
+		top: 57%;
+	}
+	.single-contact {
+		margin-bottom: 30px;
+	}
+	.contact-form {
+		margin-top: 0;
+	}
+	.single-contact i {
+		font-size: 30px;
+	}
+	.home-slider .owl-next, .home-slider .owl-prev {
+		top: 64%;
+	}
+	.benner-first-area, .benner-two-area, .benner-three-area, .benner-four-area, .benner-five-area, .benner-six-area, .benner-seven-area, .benner-video-area {
+		height: 650px;
+	}
+	.single-slide-item {
+		height: 650px;
+	}
+	.parallax-window {
+		min-height: 650px;
+	}
+	.benner-seven-area .benner-text {
+		text-align: center;
+	}
+	.preview-header {
+		top: 26%;
+	}
+	.preview-header h1 {
+		font-size: 30px;
+	}
+	.demo-area {
+		padding-bottom: 20px;
+	}
+	.demo-area h2 {
+		font-size: 30px;
+		margin-bottom: 50px;
+	}
+}
+
+
+
